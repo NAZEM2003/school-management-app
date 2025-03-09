@@ -39,7 +39,7 @@ Technologies:
 
 Images:
   
-    ![Screenshot (67)](https://github.com/user-attachments/assets/8ac10340-7d25-4f31-968d-e8fd7973459a)
+   ![Screenshot (67)](https://github.com/user-attachments/assets/8ac10340-7d25-4f31-968d-e8fd7973459a)
 
-    ![Screenshot (68)](https://github.com/user-attachments/assets/6d1c57eb-62f3-49e6-9ab4-ab54b1e4f859)
+   ![Screenshot (68)](https://github.com/user-attachments/assets/6d1c57eb-62f3-49e6-9ab4-ab54b1e4f859)
 
